@@ -1,0 +1,4 @@
+#!/bin/bash
+#script for printing path name of current directory 
+pwd 0-current_working_directory
+
