@@ -1,1 +1,1 @@
-Making a script
+Shell variables and expansions
